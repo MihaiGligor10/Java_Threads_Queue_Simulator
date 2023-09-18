@@ -1,0 +1,118 @@
+
+time: 1
+Waiting clients :  ( 0 , 14 , 3 )  ( 1 , 13 , 2 )  ( 2 , 16 , 3 )  ( 3 , 20 , 3 ) 
+Server 0:
+Server 1:
+
+time: 2
+Waiting clients :  ( 0 , 14 , 3 )  ( 1 , 13 , 2 )  ( 2 , 16 , 3 )  ( 3 , 20 , 3 ) 
+Server 0:
+Server 1:
+
+time: 3
+Waiting clients :  ( 0 , 14 , 3 )  ( 1 , 13 , 2 )  ( 2 , 16 , 3 )  ( 3 , 20 , 3 ) 
+Server 0:
+Server 1:
+
+time: 4
+Waiting clients :  ( 0 , 14 , 3 )  ( 1 , 13 , 2 )  ( 2 , 16 , 3 )  ( 3 , 20 , 3 ) 
+Server 0:
+Server 1:
+
+time: 5
+Waiting clients :  ( 0 , 14 , 3 )  ( 1 , 13 , 2 )  ( 2 , 16 , 3 )  ( 3 , 20 , 3 ) 
+Server 0:
+Server 1:
+
+time: 6
+Waiting clients :  ( 0 , 14 , 3 )  ( 1 , 13 , 2 )  ( 2 , 16 , 3 )  ( 3 , 20 , 3 ) 
+Server 0:
+Server 1:
+
+time: 7
+Waiting clients :  ( 0 , 14 , 3 )  ( 1 , 13 , 2 )  ( 2 , 16 , 3 )  ( 3 , 20 , 3 ) 
+Server 0:
+Server 1:
+
+time: 8
+Waiting clients :  ( 0 , 14 , 3 )  ( 1 , 13 , 2 )  ( 2 , 16 , 3 )  ( 3 , 20 , 3 ) 
+Server 0:
+Server 1:
+
+time: 9
+Waiting clients :  ( 0 , 14 , 3 )  ( 1 , 13 , 2 )  ( 2 , 16 , 3 )  ( 3 , 20 , 3 ) 
+Server 0:
+Server 1:
+
+time: 10
+Waiting clients :  ( 0 , 14 , 3 )  ( 1 , 13 , 2 )  ( 2 , 16 , 3 )  ( 3 , 20 , 3 ) 
+Server 0:
+Server 1:
+
+time: 11
+Waiting clients :  ( 0 , 14 , 3 )  ( 1 , 13 , 2 )  ( 2 , 16 , 3 )  ( 3 , 20 , 3 ) 
+Server 0:
+Server 1:
+
+time: 12
+Waiting clients :  ( 0 , 14 , 3 )  ( 1 , 13 , 2 )  ( 2 , 16 , 3 )  ( 3 , 20 , 3 ) 
+Server 0:
+Server 1:
+
+time: 13
+Waiting clients :  ( 0 , 14 , 3 )  ( 2 , 16 , 3 )  ( 3 , 20 , 3 ) 
+Server 0: ( 1 , 13 , 2 ) 
+Server 1:
+
+time: 14
+Waiting clients :  ( 2 , 16 , 3 )  ( 3 , 20 , 3 ) 
+Server 0: ( 1 , 13 , 2 ) 
+Server 1: ( 0 , 14 , 3 ) 
+
+time: 15
+Waiting clients :  ( 2 , 16 , 3 )  ( 3 , 20 , 3 ) 
+Server 0:
+Server 1: ( 0 , 14 , 3 ) 
+
+time: 16
+Waiting clients :  ( 3 , 20 , 3 ) 
+Server 0: ( 2 , 16 , 3 ) 
+Server 1: ( 0 , 14 , 3 ) 
+
+time: 17
+Waiting clients :  ( 3 , 20 , 3 ) 
+Server 0: ( 2 , 16 , 3 ) 
+Server 1:
+
+time: 18
+Waiting clients :  ( 3 , 20 , 3 ) 
+Server 0: ( 2 , 16 , 3 ) 
+Server 1:
+
+time: 19
+Waiting clients :  ( 3 , 20 , 3 ) 
+Server 0:
+Server 1:
+
+time: 20
+Waiting clients : 
+Server 0: ( 3 , 20 , 3 ) 
+Server 1:
+
+time: 21
+Waiting clients : 
+Server 0: ( 3 , 20 , 3 ) 
+Server 1:
+
+time: 22
+Waiting clients : 
+Server 0: ( 3 , 20 , 3 ) 
+Server 1:
+
+
+Server 0:
+
+
+Server 1:
+
+End of the simulation
